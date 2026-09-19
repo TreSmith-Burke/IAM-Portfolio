@@ -7,9 +7,12 @@ Hands-on projects documenting my path toward Identity & Access Management — co
 ## Projects
 
 ### 01 - Active Directory
-*Status: In Progress*
 
-Foundational AD work — user/group management, authentication, and permissions.
+| # | Project | Status |
+|---|---------|--------|
+| 1 | Small Business AD Environment | In Progress |
+| 2 | Group Policy Security Baseline | In Progress |
+| 3 | Role-Based Access Control (RBAC) | In Progress |
 
 ### 02 - PowerShell
 
