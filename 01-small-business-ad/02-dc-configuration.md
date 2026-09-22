@@ -34,7 +34,7 @@
 
 6. Server Manager will reopen. In the menu, select Manage at the top-right of the window, then Add Roles and Features.
    - Click through the wizard until you reach Server Roles.
-   - Check AD DS (Active Directory Domain Services) and DNS Server. If prompted, click Add Features to include required components.
+   - Check AD DS (Active Directory Domain Services) and DNS Server. 
    - Click Install to begin. The installation progress will be shown on screen.
 
    ![Install Server Roles](images/09-Install%20Server%20Roles.png)
