@@ -20,12 +20,12 @@ Hands-on projects documenting my path toward Identity & Access Management — co
 |---|---------|--------|
 | 4 | Automated User Provisioning | In Progress |
 | 5 | Joiner - Mover - Leaver | In Progress |
-| 6 | Access Review & Entitlement Audit | In Progress |
 
 ### 03 - Entra ID
 
 | # | Project | Status |
 |---|---------|--------|
+| 6 | Access Review & Entitlement Audit | In Progress |
 | 7 | MFA & Conditional Access | In Progress |
 
 ---
