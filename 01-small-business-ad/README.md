@@ -8,10 +8,10 @@ This lab simulates a small business environment that includes OUs, departments, 
 
 - [x] Domain Controller deployment
 - [x] Windows 11 client provisioning and domain join
-- [ ] Organizational Units (OUs)
-- [ ] User accounts and department structure
-- [ ] Security groups
-- [ ] Delegated administration
+- [x] Organizational Units (OUs)
+- [x] User accounts and department structure
+- [x] Security groups
+- [x] Delegated administration
 
 ## Setup Guides
 - [VM Setup](/01-small-business-ad/01-vm-lab-creation.md)
