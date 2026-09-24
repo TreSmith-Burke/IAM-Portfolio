@@ -10,7 +10,7 @@ Hands-on projects documenting my path toward Identity & Access Management — co
 
 | # | Project | Status |
 |---|---------|--------|
-| 1 | Small Business AD Environment | In Progress |
+| 1 | Small Business AD Environment | Completed |
 | 2 | Group Policy Security Baseline | In Progress |
 | 3 | Role-Based Access Control (RBAC) | In Progress |
 
