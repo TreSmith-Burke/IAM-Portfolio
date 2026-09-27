@@ -2,7 +2,7 @@
 
 This lab simulates a small business environment that includes OUs, departments, security groups, and more. The goal is to design a realistic AD environment covering what businesses would see in an on-prem environment. 
 
-**Skills demonstrated:** AD fundamentals, organizational design, and delegation.
+**Skills demonstrated:** AD fundamentals, organizational design, security groups and delegation.
 
 ## Project Scope
 
