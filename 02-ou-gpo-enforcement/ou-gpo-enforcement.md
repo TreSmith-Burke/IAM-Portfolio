@@ -36,7 +36,7 @@ Group Policy Management is where administrators configure policies and restricti
 
 ### GPO Enabled
 
-* Policy enabled was "Remove Recycle Bin from desktop".
+* Policy enabled was "Remove Recycle Bin icon from desktop".
 
 When the HR user navigates to their desktop, they will not be able to see the Recycle Bin icon display.
 
