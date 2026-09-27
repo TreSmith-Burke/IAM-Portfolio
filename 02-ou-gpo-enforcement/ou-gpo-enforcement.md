@@ -27,6 +27,6 @@ Lab.local is organized into the following departments:
 
 ### Setting Up GPO for an HR OU
 
-* GPO was created and linked to the HR OU 
+* GPO was created and linked to the HR OU.
 * Policy created was "Remove Recycle Bin from desktop".
 * Policy applied at next user login.
