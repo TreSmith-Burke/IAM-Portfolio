@@ -32,7 +32,7 @@ Hands-on projects documenting my path toward Identity & Access Management — co
 
 ## Why This Portfolio
 
-Most IAM problems aren't hard because of the tooling — they're hard because of the process: least privilege drifts over time, offboarding gets missed, access reviews become a checkbox exercise. Each project here is built around a specific piece of that process, with the reasoning documented alongside the code.
+Most IAM problems aren't hard because of the tooling — they're hard because of the process: least privilege drifts over time, offboarding gets missed, access reviews become a checkbox exercise. Each project here is built around a specific piece of that process, with the reasoning documented alongside the hands-on labs.
 
 ## Skills Demonstrated
 - Active Directory administration (users, groups, permissions)
