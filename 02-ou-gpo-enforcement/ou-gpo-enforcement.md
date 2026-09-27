@@ -2,7 +2,7 @@
 
 # The Purpose of This Lab
 
-To demonstrate how important a GPO is to an organization. GPOs can be linked to computers, users or OUs providing centralized management, so an organization's resources are secured across the environment. In a domain environment, GPOs are routinely utilized to restrict actions and enforce a consistent policy.
+To demonstrate how important GPOs are to an organization. GPOs can be linked to OUs and applied to users or computers, providing centralized management across the environment. In a domain environment, GPOs are routinely utilized to restrict actions, enforce consistent policies, and manage configurations across the organization.
 
 ### Business Context
 
