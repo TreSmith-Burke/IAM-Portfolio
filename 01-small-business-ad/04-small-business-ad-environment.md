@@ -39,7 +39,7 @@ Lab.local is organized into the following departments:
   
 * Security group is created for appropriate access.
 
-This summarizes the group the user is placed in and would determine the folders, files, and access permitted.
+ The Security Group determines the folders, files, and access permitted for the user.
 
 ![SG is created](https://github.com/TreSmith-Burke/IAM-Portfolio/blob/7686044dd6646873b91d0fcb1288e54880fb7213/01-small-business-ad/project-screenshots/02.%20Create%20Security%20Group.png)
 
@@ -47,6 +47,6 @@ This summarizes the group the user is placed in and would determine the folders,
 
 * Delegated control is configured for the IT user.
 
-This summarizes what type of control the user can do within this OU.
+Delegate control expresses what type of authorization the user inherits within this OU.
 
 ![Delegated control](https://github.com/TreSmith-Burke/IAM-Portfolio/blob/7686044dd6646873b91d0fcb1288e54880fb7213/01-small-business-ad/project-screenshots/03.%20Delegate%20Control.png)
