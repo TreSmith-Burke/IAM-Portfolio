@@ -1,4 +1,4 @@
-# Project 2: OU-Scoped Group Policy Enforcement
+# OU-Scoped Group Policy Enforcement
 
 This lab simulates a creation of a GPO designated for a HR OU. The GPO applied ensures that an HR user cannot see the Recycle Bin on their desktop. A comparison of OUs with and without the GPO applied are shown in this lab. 
 
