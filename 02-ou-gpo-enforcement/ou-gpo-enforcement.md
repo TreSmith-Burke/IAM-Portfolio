@@ -25,9 +25,26 @@ Lab.local is organized into the following departments:
 * IT
 * HR
 
-### Setting Up GPO for an HR OU
+### Linking GPO to an HR OU
 
 * GPO was created and linked to the HR OU.
+
+Group Policy Management is where administrators configure policies and restrictions that apply to users and computers within an organization.
+
+![Linking GPO to HR OU](https://github.com/TreSmith-Burke/IAM-Portfolio/blob/a5c2264cb324d4364343721ffb7e4457f3ce64e3/02-ou-gpo-enforcement/project-screenshots/1.%20Link%20GPO%20to%20HR%20OU.png)
+
+
+### GPO Enabled
+
 * Policy enabled was "Remove Recycle Bin from desktop".
-* Policy applied at next user login.
-* Comparison of an IT OU vs HR OU with GPO applied/not applied.
+
+When the HR user navigates to their desktop, they will not be able to see the Recycle Bin icon display.
+
+![GPO Policy enabled](https://github.com/TreSmith-Burke/IAM-Portfolio/blob/a5c2264cb324d4364343721ffb7e4457f3ce64e3/02-ou-gpo-enforcement/project-screenshots/2.%20Enable%20Remove%20Recycle%20Bin%20icon%20from%20desktop%20GPO.png)
+
+### GPO Successfully Applied
+
+* Confirmation that the Recycle  Bin is not being shown.
+
+  ![GPO successfully applied to HR user](https://github.com/TreSmith-Burke/IAM-Portfolio/blob/a5c2264cb324d4364343721ffb7e4457f3ce64e3/02-ou-gpo-enforcement/project-screenshots/3.%20Confirmation%20Recycle%20Bin%20is%20removed.png)
+
