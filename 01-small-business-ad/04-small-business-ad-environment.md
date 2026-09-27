@@ -6,7 +6,9 @@ Lab.local is a small company that is expected to grow in the near future. As the
 
 ### Lab Environment
 
-* Windows Server Domain Controller
+* VMware
+* DNS (integrated with AD)
+*  Windows Server Domain Controller
 * Windows 11 domain-joined client
 * `lab.local` Active Directory domain
 * Multiple departmental OUs
