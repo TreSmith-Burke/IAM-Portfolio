@@ -63,7 +63,7 @@ A Global Security Group organizes the user based on their department, while a Do
 ![Department Shared Folders](https://github.com/TreSmith-Burke/IAM-Portfolio/blob/a168a3012ee6df9997fa4450a15a85702d583fd7/03-rbac/project-screenshots/06-Departmental-Folders.png)
 
 * We can now set up the permissions for the IT shared folder.
-  * Locate the **Sharing Tab** then select **Advanced Sharing** and click the box **Share this folder**
+  * Locate the **Sharing Tab** then select **Advanced Sharing** and click the box **Share this folder.**
   * Then click **Permissions**.
   * **MAKE SURE TO CLICK APPLY EACH TIME YOU MAKE A CHANGE!**
 * **Authenticated Users** can ONLY Change and Read this folder, while **Administrators** will have Full Control.
@@ -75,7 +75,7 @@ A Global Security Group organizes the user based on their department, while a Do
     * Then navigate to **Edit.**
     * From here you will want to **Add** the Domain Local Security Group.
     * In this example we would type **DL_IT_Modify** then select check name. It will underline then you can press ok.
-    * The next screen you are brought to will show you groups and users that are shared the folder.
+    * The next screen you are brought to will show you groups and users that are shared this folder.
 
 NTFS Permissions in an organization are essential for controlling who can access, read, modify or manage the files/folders.
 
@@ -87,7 +87,7 @@ NTFS Permissions in an organization are essential for controlling who can access
 
 ![Test File on C:](https://github.com/TreSmith-Burke/IAM-Portfolio/blob/a168a3012ee6df9997fa4450a15a85702d583fd7/03-rbac/project-screenshots/09-Txt-Doc-Created.png) 
 
-* We will have to Map the drive on the IT user's client.
+* We will have to map the drive on the IT user's PC.
 * Head over to **File Explorer** and right-click **This PC**
 * Select **Map network drive** and enter the information show similar to the example.
   * Note: You will be typing in the server and the shared folder you want to allow the user access to.
@@ -111,7 +111,7 @@ Let's verify the change was made on the Domain Controller.
 
 ![HR Folder Properties](https://github.com/TreSmith-Burke/IAM-Portfolio/blob/70c0c7a2cd28bd10be91a8852855dc62cf1da8c5/03-rbac/project-screenshots/13-HR-Properties.png)
 
-* Now if a user doesn't have access to the folder they would be prompted by a **Denied Access** window which request them to contact their administrator(s).
+* Now if a user doesn't have access to the folder they would be prompted by a **Denied Access** window which would require contacting their administrator(s).
 * For example, an IT User would NOT have access to the HR or Sales Drive.
  * Trying to map the drive and searching the drive using run command (Windows Key + R) would result in the same denied access prompt.
 
