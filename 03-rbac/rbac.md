@@ -10,13 +10,16 @@ Organizations have an important responsibility when managing employee access to 
 
 ### Lab Environment
 
-* VMware
-* DNS (integrated with AD)
-* Windows Server Domain Controller
-* Windows 11 domain-joined client
-* `lab.local` Active Directory domain
-* Multiple departmental OUs (IT vs. HR vs. Sales)
-* Group Policy Management Console
+* VMware Workstation
+* Windows Server 2025 Domain Controller
+* One Windows 11 domain-joined client VM
+* DNS integrated with Active Directory
+* lab.local Active Directory domain
+* Departmental OUs (IT, HR, & Sales)
+* Active Directory Users and Computers (ADUC)
+* Departmental shared folders (IT, HR & Sales)
+* Global and Domain Local Security Groups
+* NTFS permissions
 
 ### OU Structure
 
