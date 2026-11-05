@@ -50,3 +50,5 @@ Lab.local is organized into the following departments:
 Delegate control expresses what type of authorization the user inherits within this OU.
 
 ![Delegated control](https://github.com/TreSmith-Burke/IAM-Portfolio/blob/7686044dd6646873b91d0fcb1288e54880fb7213/01-small-business-ad/project-screenshots/03.%20Delegate%20Control.png)
+
+## Active Directory provides centralized management of users, computers, and organizational resources. Establishing a structured domain and OU hierarchy creates a foundation for managing identities, organizing resources, and applying administrative controls
