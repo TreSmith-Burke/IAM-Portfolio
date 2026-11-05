@@ -102,8 +102,24 @@ NTFS Permissions in an organization are essential for controlling who can access
 
 * **MAKE SURE TO SAVE OR THE CHANGES WON'T TAKE AFFECT!**
 
-
 Let's verify the change was made on the Domain Controller.
+
+![Test File Change Verified on DC](https://github.com/TreSmith-Burke/IAM-Portfolio/blob/70c0c7a2cd28bd10be91a8852855dc62cf1da8c5/03-rbac/project-screenshots/12-Txt-doc-changed.png)
+
+* An IT user would not have access to an HR Folder shown below.
+* As you can see the Domain Local Security Group (DL_HR_Modify) verifies only HR users and Admin would have access to that folder.
+
+![HR Folder Properties](https://github.com/TreSmith-Burke/IAM-Portfolio/blob/70c0c7a2cd28bd10be91a8852855dc62cf1da8c5/03-rbac/project-screenshots/13-HR-Properties.png)
+
+* Now if a user doesn't have access to the folder they would be prompted by a **Denied Access** window which request them to contact their administrator(s).
+* For example, an IT User would NOT have access to the HR or Sales Drive.
+ * Trying to map the drive and searching the drive using run command (Windows Key + R) would result in the same denied access prompt.
+
+![Denied Access to Sales](https://github.com/TreSmith-Burke/IAM-Portfolio/blob/70c0c7a2cd28bd10be91a8852855dc62cf1da8c5/03-rbac/project-screenshots/14-Denied-Access-to-Sales-Drive.png)
+![Denied Access to HR](https://github.com/TreSmith-Burke/IAM-Portfolio/blob/70c0c7a2cd28bd10be91a8852855dc62cf1da8c5/03-rbac/project-screenshots/15-Denied-Access-to-HR-Drive.png)
+
+## Properly implemented RBAC simplifies access management, enforces the principle of least privilege, and reduces unauthorized access to protect an organization's sensitive resources.
+ 
 
 
 
