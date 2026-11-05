@@ -1,8 +1,8 @@
 # Role-Based Access Control
 
-This lab simulates the implementation of Role-Based Access Control (RBAC) in Active Directory using security groups and AGDLP nesting. An IT user is assigned access to departmental shared folders through group membership and NTFS permissions. Access testing demonstrates which resources the user can access, with access granted or denied based on assigned permissions.
+This lab simulates the implementation of Role-Based Access Control (RBAC) in Active Directory using security groups and AGDLP nesting. An IT user is assigned access to departmental shared folders based on group membership and NTFS permissions. Access testing demonstrates which folders the user can and cannot access.
 
-**Skills demonstrated:** Security Group Management, AGLDP Group Nesting, RBAC, NTFS Permissions Management, Shared Folder Administration, Access Control and Validation, Access Denial Troubleshooting.
+**Skills demonstrated:** Security Group Management, AGLDP Group Nesting, RBAC, NTFS Permissions, Shared Folder Administration, Access Control and Validation, Access Denial Troubleshooting.
 
 ## Project Scope
 
