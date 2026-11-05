@@ -2,7 +2,7 @@
 
 # The Purpose of This Lab
 
-To demonstrate the importance of Role-Based Access Control (RBAC) in an organization by ensuring users only have access to the shared resources required for their roles.
+To demonstrate the importance of Role-Based Access Control (RBAC) in an organization by ensuring users only have access to the resources required for their roles.
 
 ### Business Context
 
@@ -29,3 +29,12 @@ Lab.local is organized into the following departments:
 * HR
 * Sales
 
+### Existing Active Directory Environment
+
+* The OU Structure involves three departments - IT, HR & Sales.
+
+![Existing OUs](https://github.com/TreSmith-Burke/IAM-Portfolio/blob/473fe3576015b398eb9475a301d8c78e95970cfd/03-rbac/project-screenshots/01-Existing-Department-OU-Structure.png)
+
+* Users are placed in their designated OU reflected on the department they are empoloyed in.
+
+![AD Users](https://github.com/TreSmith-Burke/IAM-Portfolio/blob/473fe3576015b398eb9475a301d8c78e95970cfd/03-rbac/project-screenshots/02-Existing-AD-Users%20.png)
