@@ -12,7 +12,7 @@ Hands-on projects documenting my path toward Identity & Access Management — co
 |---|---------|--------|
 | 1 | Small Business AD Environment | Completed |
 | 2 | OU-Scoped Group Policy Enforcement | Completed |
-| 3 | Role-Based Access Control (RBAC) | In Progress |
+| 3 | Role-Based Access Control (RBAC) | Completed |
 
 ### 02 - PowerShell
 
