@@ -10,9 +10,9 @@ The IT department has been requested to test and apply different group policies 
 
 ### Lab Environment
 
-* VMware
+* VMware Workstation
 * DNS (integrated with AD)
-* Windows Server Domain Controller
+* Windows Server 2025 Domain Controller
 * Windows 11 domain-joined client
 * `lab.local` Active Directory domain
 * Multiple departmental OUs (IT vs. HR)
