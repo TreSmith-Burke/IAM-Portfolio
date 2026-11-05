@@ -48,3 +48,4 @@ When the HR user navigates to their desktop, they will not be able to see the Re
 
   ![GPO successfully applied to HR user](https://github.com/TreSmith-Burke/IAM-Portfolio/blob/a5c2264cb324d4364343721ffb7e4457f3ce64e3/02-ou-gpo-enforcement/project-screenshots/3.%20Confirmation%20Recycle%20Bin%20is%20removed.png)
 
+## Group Policy provides centralized management of user and computer configurations within an Active Directory environment. By targeting specific OUs, administrators can enforce policies based on organizational requirements while maintaining consistent configurations
