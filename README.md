@@ -10,23 +10,23 @@ Hands-on projects documenting my path toward Identity & Access Management — co
 
 | # | Project | Status |
 |---|---------|--------|
-| 1 | Small Business AD Environment | Completed |
-| 2 | OU-Scoped Group Policy Enforcement | Completed |
-| 3 | Role-Based Access Control (RBAC) | Completed |
+| 1 | [Small Business AD Environment](https://github.com/TreSmith-Burke/IAM-Portfolio/tree/1a95b734ff3dc5bf3372d0e8501e69715dd4d072/01-small-business-ad) | Completed |
+| 2 | [OU-Scoped Group Policy Enforcement](https://github.com/TreSmith-Burke/IAM-Portfolio/tree/1a95b734ff3dc5bf3372d0e8501e69715dd4d072/02-ou-gpo-enforcement) | Completed |
+| 3 | [Role-Based Access Control (RBAC)](https://github.com/TreSmith-Burke/IAM-Portfolio/tree/1a95b734ff3dc5bf3372d0e8501e69715dd4d072/03-rbac) | Completed |
 
 ### 02 - PowerShell
 
 | # | Project | Status |
 |---|---------|--------|
 | 4 | Automated User Provisioning | In Progress |
-| 5 | Joiner - Mover - Leaver | In Progress |
+| 5 | Joiner - Mover - Leaver | Planning |
 
 ### 03 - Entra ID
 
 | # | Project | Status |
 |---|---------|--------|
-| 6 | Access Review & Entitlement Audit | In Progress |
-| 7 | MFA & Conditional Access | In Progress |
+| 6 | Access Review & Entitlement Audit | Planning |
+| 7 | MFA & Conditional Access | Planning |
 
 ---
 
