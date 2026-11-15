@@ -18,8 +18,8 @@ Hands-on projects documenting my path toward Identity & Access Management — co
 
 | # | Project | Status |
 |---|---------|--------|
-| 4 | Automated User Provisioning | In Progress |
-| 5 | Joiner - Mover - Leaver | Planning |
+| 4 | Automated Identity Lifecycle Management (JML) | In Progress |
+| 5 | Automated Access Reviews & Auditing | Planning |
 
 ### 03 - Entra ID
 
